@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private Button miBoton;
     private Spinner listaValores;
 
-
+//MODIFICACION CONVERSOR2 BRANCH
     @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
