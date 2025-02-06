@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private Button miBoton;
     private Spinner listaValores;
 
-//MODIFICACION PARA BRANCH GIT
+//modificacion erronea
     @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
